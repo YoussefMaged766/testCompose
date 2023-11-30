@@ -1,8 +1,8 @@
 # testCompose
 ## My First App using Compose
-|  Splash | |  Sign Up |
-| --- | | --- | 
-| ![splash](images/screen1.png) | | ![splash](images/screen2.png) | 
+|  Splash |  Sign Up |
+| --- | --- | 
+| ![splash](images/screen1.png) | ![splash](images/screen2.png) | 
 
 |  Login |
 | --- | 
